@@ -1,4 +1,4 @@
-# NYP-Final-devi
+# NYP-Final-Odevi
 İnsan Kaynakları Yönetim Sistemi
 Şirketlerin personel yönetim süreçlerini dijitalleştiren, verimliliği artıran ve veri güvenliğini sağlayan kapsamlı bir masaüstü uygulamasıdır. Bu proje, çalışanların işe alımından performans değerlendirmesine, izin yönetiminden maaş takibine kadar tüm İK süreçlerini tek bir merkezden yönetmeyi sağlar.
 
